@@ -5,3 +5,10 @@
 
 ## ENG
 This repository is intended for Robocode's students, as well as beginners, and other programming enthusiasts seeking to develop their skills in the foundational languages of Python and C/C++.
+
+## Rating
+
+| Student     |    Course   |    Task      |    Mark    |
+| :---        |    :----:   |    :----:    |       ---: |
+| student-n   |    Title    |    task-n    |   ⭐️⭐️⭐️   |
+| student-n   |    Title    |    task-n    |   ⭐️⭐️⭐️   |
